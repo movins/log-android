@@ -1,1 +1,1 @@
-# log-android
+# log-sdk
